@@ -3,7 +3,7 @@
  */
 
  body {
-	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Î¢ÈíÑÅºÚ",Arial,sans-serif;
+	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Î¢ï¿½ï¿½ï¿½Åºï¿½",Arial,sans-serif;
 }
 
 pre {
@@ -39,4 +39,8 @@ blockquote {
 -------------------------------------------------------- */
 .page {
 	page-break-after: always;
+}
+
+h1{
+	border-bottom: none;
 }
