@@ -46,6 +46,6 @@ h1 {
   border-bottom: none !important;
 }
 
-h2 + p {
+h3 + p {
   padding-left: 25px;
 }
